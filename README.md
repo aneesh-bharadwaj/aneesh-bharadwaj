@@ -1,6 +1,6 @@
 # Hi there, I'm Aneesh Bharadwaj K S 👋
 
-Welcome to my GitHub profile! I'm a passionate B.Tech student with a keen interest in CS & AIML. I love exploring new technologies, working on exciting projects, and learning through hands-on experience.
+I'm a passionate B.Tech student with a keen interest in CS & AIML. I love exploring new technologies, working on exciting projects, and learning through hands-on experience.
 
 ## 👨‍💻 About Me
 
