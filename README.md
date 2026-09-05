@@ -11,7 +11,7 @@ I'm a passionate B.Tech student with a keen interest in CS & AIML. I love explor
 
 Here are some of the languages, frameworks, and tools I work with:
 
-- **Languages**: Python , C , Java
+- **Languages**: Java , C , C++ 
 - **Frameworks & Libraries**: React, Node.js, Pytorch, 
 - **Tools**: Git, GitHub, VS Code , Jupyter 
 - **Databases**: MySQL, MongoDB
